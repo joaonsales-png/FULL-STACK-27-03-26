@@ -1,0 +1,6 @@
+Nome: João Nicolas Lima Sales
+Curso: Programador Full Stack
+Escola: SENAI Cel. Auton Furtado
+
+Escolaridade: Ensino médio
+Idade: 14
